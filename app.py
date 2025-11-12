@@ -137,7 +137,7 @@ def debug_generation(tokenizer, model, text):
         return f"Debug error: {e}"
 
 def main():
-    st.title("📝 Text Summarizer - Fixed Version")
+    st.title("📝 Paragraph Summarizer")
     st.markdown("Using model: `mustehsannisarrao/summarizer`")
     
     # Load model
