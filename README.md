@@ -33,7 +33,7 @@ This project implements **abstractive text summarization** using an Encoder–De
 
 ## 🚀 Live Demo
 Try the model live using **Streamlit / Gradio**:  
-`[[Your Streamlit/Gradio link here](https://paragraph-summarizer-hwzhjaixyseivqrnsw3bn8.streamlit.app/)]`
+[[Your Streamlit/Gradio link here](https://paragraph-summarizer-hwzhjaixyseivqrnsw3bn8.streamlit.app/)]
 
 ## 💻 Code Repository
 [GitHub Repository](https://github.com/YourUsername/Text-Summarization-T5-BART)
